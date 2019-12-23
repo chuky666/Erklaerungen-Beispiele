@@ -1,6 +1,6 @@
 # Infos
 
-Hier findest du Tutorials wie man unterschiedliche sachen machen kann.
+Hier findest du Tutorials wie man unterschiedliche sachen machen kann z.B.: Commands, Join/Leave Nachrichten etc..
 
 ## Fehler gefunden?
 
