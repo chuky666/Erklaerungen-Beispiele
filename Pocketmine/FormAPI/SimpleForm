@@ -1,3 +1,5 @@
+# SimpleForm
+
 Erstmal musst du use jojoe77777\FormAPI importieren.
 
 Dann hier ein Beispiel:
@@ -22,6 +24,9 @@ Dann hier ein Beispiel:
         $form->sendToPlayer($player);
         return $form;
     }
-    ```
+```
 
-Um jetzt darauf zuzugreifen musst du nur `$this->openHelpUI($player);` hinzufügen
+Um jetzt darauf zuzugreifen musst du das nutzenn:
+```php
+$this->openHelpUI($player);
+```
