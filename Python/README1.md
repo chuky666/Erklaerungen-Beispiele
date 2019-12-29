@@ -41,8 +41,11 @@ rechnen
 Mit Python lässt sich ganz einfach durch die 4 bekannten Operatoren rechnen.
 + - * /
 +: Addieren
+
 -: subtrahieren
+
 *: Multiplizieren
+
 /: Dividieren
 
 Man kann in einer variable einen errechneten wert abspeichern:
