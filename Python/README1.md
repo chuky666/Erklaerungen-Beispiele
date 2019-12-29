@@ -40,6 +40,7 @@ _
 rechnen
 Mit Python lässt sich ganz einfach durch die 4 bekannten Operatoren rechnen.
 + - * /
+
 +: Addieren
 
 -: subtrahieren
